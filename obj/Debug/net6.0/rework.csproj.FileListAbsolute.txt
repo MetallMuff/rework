@@ -1,0 +1,15 @@
+C:\Users\Максим\Pictures\учеба\Первая четверть\rework\bin\Debug\net6.0\rework.exe
+C:\Users\Максим\Pictures\учеба\Первая четверть\rework\bin\Debug\net6.0\rework.deps.json
+C:\Users\Максим\Pictures\учеба\Первая четверть\rework\bin\Debug\net6.0\rework.runtimeconfig.json
+C:\Users\Максим\Pictures\учеба\Первая четверть\rework\bin\Debug\net6.0\rework.dll
+C:\Users\Максим\Pictures\учеба\Первая четверть\rework\bin\Debug\net6.0\rework.pdb
+C:\Users\Максим\Pictures\учеба\Первая четверть\rework\obj\Debug\net6.0\rework.csproj.AssemblyReference.cache
+C:\Users\Максим\Pictures\учеба\Первая четверть\rework\obj\Debug\net6.0\rework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\Pictures\учеба\Первая четверть\rework\obj\Debug\net6.0\rework.AssemblyInfoInputs.cache
+C:\Users\Максим\Pictures\учеба\Первая четверть\rework\obj\Debug\net6.0\rework.AssemblyInfo.cs
+C:\Users\Максим\Pictures\учеба\Первая четверть\rework\obj\Debug\net6.0\rework.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Pictures\учеба\Первая четверть\rework\obj\Debug\net6.0\rework.dll
+C:\Users\Максим\Pictures\учеба\Первая четверть\rework\obj\Debug\net6.0\refint\rework.dll
+C:\Users\Максим\Pictures\учеба\Первая четверть\rework\obj\Debug\net6.0\rework.pdb
+C:\Users\Максим\Pictures\учеба\Первая четверть\rework\obj\Debug\net6.0\rework.genruntimeconfig.cache
+C:\Users\Максим\Pictures\учеба\Первая четверть\rework\obj\Debug\net6.0\ref\rework.dll
